@@ -10,5 +10,11 @@
         "name": "Abdul Akhil",
         "age": 19,
         "course": "Data Analytics"
+    },
+    {
+        "id": 3,
+        "name": "Sonthosh",
+        "age": 23,
+        "course": "\"AI&ML\""
     }
 ]
