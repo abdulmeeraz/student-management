@@ -8,7 +8,7 @@
     {
         "id": 2,
         "name": "Abdul Akhil",
-        "age": 19,
+        "age": 20,
         "course": "Data Analytics"
     },
     {
@@ -22,5 +22,11 @@
         "name": "Roshan",
         "age": 21,
         "course": "ITI"
+    },
+    {
+        "id": 6,
+        "name": "Sonthosh",
+        "age": 23,
+        "course": "B phamacy"
     }
 ]
