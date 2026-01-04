@@ -34,5 +34,11 @@
         "name": "Naveen",
         "age": 23,
         "course": "Data science"
+    },
+    {
+        "id": 8,
+        "name": "Saske Uchiha",
+        "age": 23,
+        "course": "AI/ML"
     }
 ]
