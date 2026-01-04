@@ -28,5 +28,11 @@
         "name": "Sonthosh",
         "age": 23,
         "course": "B phamacy"
+    },
+    {
+        "id": 7,
+        "name": "Naruto Uzumaki",
+        "age": 25,
+        "course": "Data science"
     }
 ]
