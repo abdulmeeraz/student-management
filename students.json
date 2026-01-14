@@ -40,5 +40,12 @@
         "name": "Karthik",
         "age": 23,
         "course": "AI/ML"
+    },
+    {
+        "id": 9,
+        "name":"harish",
+        "age": 25,
+        "course": "AI/ML"
     }
+    
 ]
