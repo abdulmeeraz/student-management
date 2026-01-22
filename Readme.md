@@ -21,6 +21,7 @@ It allows users to manage student records with persistent storage.
 ## How to Run
 1. Install Python 3
 2. Run:
+python main.py
 
 
 file Structure:
