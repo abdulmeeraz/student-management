@@ -26,8 +26,6 @@ python main.py
 
 file Structure:
 
-|
-
 |-->main.py
 
 |-->readme.md
