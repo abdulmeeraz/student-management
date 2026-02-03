@@ -47,5 +47,11 @@
         "age": 25,
         "course": "AI/ML"
     }
+    {
+        "id": 10,
+        "name":"harsha",
+        "age": 25,
+        "course": "Data science"
+    }
     
 ]
