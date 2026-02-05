@@ -1,8 +1,7 @@
 # Student Management System 🎓
 
 ## Description
-A command-line Student Management System built using Python.  
-It allows users to manage student records with persistent storage.
+A command-line Student Management System built using Python.It allows users to manage student records with persistent storage.
 
 ## Features
 - Add student records
